@@ -15,7 +15,6 @@ This is a simple C++ console application for managing basic hospital operations.
 * Object-Oriented Programming (OOP)
 * Classes and Objects
 * STL
-* Queue (for appointments)
 
 ## Files
 
